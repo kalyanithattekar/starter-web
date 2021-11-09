@@ -1,1 +1,1 @@
-
+console.log("local js file");
